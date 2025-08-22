@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey there! 👋  
+I'm **Yadanar Lin**, but everyone calls me **Rita**! 😊  
 
-<!--
-**Yadanar-Lin/Yadanar-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+💻 Computer Science student at **San José State University** <br>
+🎨 Digital Artist (as my creative side) <br>
+🌱 Passionate about building software that solves real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack & Tools
+
+**Languages:**  
+- Java <br> 
+- C++ <br> 
+- HTML/CSS
+
+**Frameworks & Tools:**  
+- JavaFX <br> 
+- Git & GitHub <br> 
+- IntelliJ IDEA <br>
+- VS Code
+
+## Let’s Connect!
+
+Email: yadanarlinn292@gmail.com  
+
+---
+
+Thanks for visiting my profile! Feel free to explore my projects or drop a message 😊  
+Let’s keep learning and building awesome things together!
